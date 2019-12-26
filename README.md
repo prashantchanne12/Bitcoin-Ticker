@@ -1,9 +1,7 @@
 # bitcoin ticker using Flutter
 
-A new Flutter application.
+A new Flutter application. 
 
-### APK Link
-[BitCoin Ticker](https://drive.google.com/open?id=1HVvQbQXng-IEF5dQMdhHtcps1vV4CyjQ)
 
 ## DEMO
 

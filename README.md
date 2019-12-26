@@ -1,4 +1,4 @@
-# bitcoin_ticker
+# bitcoin ticker using Flutter
 
 A new Flutter application.
 
